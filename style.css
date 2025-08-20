@@ -32,3 +32,16 @@ body {
      background-color: palevioletred;
      color: white;
 }
+ .work {
+    display: flex;
+    align-items: flex-end;
+    padding: 35px;
+    background-color: #f3f2f4;
+    border-radius: 6px;
+    width: 270px;
+     margin: 50px;
+    height: 250px;
+}
+.text{
+    color: darkcyan;
+}
